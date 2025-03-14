@@ -1,4 +1,5 @@
-<h1 align="center"> Hi there, I'm Harish! </h1>
+<h1 align="center"> Hi there, I'm Harish! </h1>  
+
 ## Offensive/Defensive Cybersecurity Practitioner | Penetration Tester | Cybersecurity Enthusiast
 I'm a cybersecurity professional dedicated to exposing vulnerabilities before they become threats. My passion lies in offensive security, penetration testing and reverse engineering.  
 When I'm not dissecting digital defenses or probing for weaknesses, you'll probably find me playing video games or at the gym.
