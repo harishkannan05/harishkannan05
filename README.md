@@ -7,7 +7,7 @@ When I'm not dissecting digital defenses or probing for weaknesses, you'll proba
 ## 🎓 Education & Certifications
 - **Master's in Cybersecurity** at George Washington University
 - **CompTIA Security+**
-- **Cisco Certified Network Associate** (In Progress)
+- **Offensive Security Certified Professional** (In Progress)
 
 ## 🛠️ Skills & Interests
 - **Languages:** C/C++, Python, Bash, PowerShell, JavaScript, SQL
